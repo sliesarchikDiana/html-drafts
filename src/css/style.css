@@ -19,6 +19,12 @@ h1, h2, h3{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+h1{
+    text-decoration: underline; 
+}
+.edition{
+    text-transform: uppercase;
+}
 .list{
     font-size: 16px;
     color: rgb(161, 0, 0);
