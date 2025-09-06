@@ -53,6 +53,8 @@ a{
     border: 2px solid brown;
     padding: 5px;
     display: inline-block;
+    /* only for inline-block */
+    vertical-align: top; 
 }
 
 .navigation{
@@ -81,3 +83,22 @@ a{
     background-color: rgb(217, 141, 78);
     border: 2px solid rgb(138, 60, 12);
 }
+
+/* rem is a size of font in browzer */
+/* 1rem = 16px */
+/* em size of font in its parent element */
+
+
+/* screen-size */
+/* vw = view width
+vh = view height
+vmin = view minimum
+vmax = view maximum */
+
+/* example:
+width: 1200px;
+height: 700px;
+vw: 1% = 12px;
+vh: 1% = 7px;
+vmin: 1% = 7px; 
+vmax: 1% = 12px; */
