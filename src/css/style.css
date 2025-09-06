@@ -102,3 +102,14 @@ vw: 1% = 12px;
 vh: 1% = 7px;
 vmin: 1% = 7px; 
 vmax: 1% = 12px; */
+
+
+
+/* selectors:
+through tags e-g: body, h1, p, em, a, div, img
+through classes e-g: .box, .list, .cover
+through ids e-g: #navigation, #popup
+through style e-g: <h1 style="color:brown;">
+through descendant e-g: .navigation .list,     div .box 
+
+*/
